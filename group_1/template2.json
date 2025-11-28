@@ -1,0 +1,131 @@
+{
+  "type": "drawboard",
+  "baseAssetUrl": "https://media.magiceraser.live/",
+  "width": 985,
+  "height": 1920,
+  "resizeKey": "original",
+  "materials": [
+    {
+      "type": "image",
+      "layerIndex": -100,
+      "foreground": false,
+      "visible": true,
+      "locked": false,
+      "replaceable": false,
+      "inVisibleType": 0,
+      "originalAlpha": -1.0,
+      "lastFilterType": "Original",
+      "lastFilterLevel": 100,
+      "visibleParams": {
+        "alpha": 1.0,
+        "blurRadius": 0.0,
+        "borderColor": -1,
+        "borderEnabled": false,
+        "borderSize": 0.0,
+        "glowSize": 0,
+        "hFlip": false,
+        "height": 1151,
+        "outlineColor": -1,
+        "outlineThickness": 0,
+        "rotation": 0.0,
+        "scaleX": 1.6655083,
+        "scaleY": 1.6655083,
+        "vFlip": false,
+        "width": 590,
+        "x": 0.0,
+        "y": 0.0
+      },
+      "adjustParams": {
+        "brightness": 50,
+        "contrast": 50,
+        "exposure": 50,
+        "highLight": 100,
+        "saturation": 50,
+        "shadow": 0,
+        "sharpen": 50,
+        "temperature": 50
+      },
+      "groupName": "Paper",
+      "shadowParams": {
+        "angle": 0.0,
+        "blur": 0.0,
+        "color": -16777216,
+        "enabled": true,
+        "is3DShadow": false,
+        "offset": 0.0,
+        "opacity": 1.0,
+        "shapeAngle": 0.0,
+        "shapeGradient": 0.0,
+        "shapeLength": 20.0,
+        "shapeOffsetX": 0.0,
+        "shapeOffsetY": 0.0,
+        "xOffset": 0.0,
+        "yOffset": 0.0
+      },
+      "source": {
+        "type": "network",
+        "url": "background-template-v2/paper/4fafe0723de6b07c.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "layerIndex": 1,
+      "foreground": true,
+      "visible": true,
+      "locked": false,
+      "replaceable": false,
+      "inVisibleType": 0,
+      "originalAlpha": -1.0,
+      "lastFilterType": "Original",
+      "lastFilterLevel": 100,
+      "visibleParams": {
+        "alpha": 1.0,
+        "blurRadius": 0.0,
+        "borderColor": -1,
+        "borderEnabled": false,
+        "borderSize": 0.0,
+        "glowSize": 0,
+        "hFlip": false,
+        "height": 1536,
+        "outlineColor": -1,
+        "outlineThickness": 0,
+        "rotation": 0.0,
+        "scaleX": 0.99736166,
+        "scaleY": 0.99778754,
+        "vFlip": false,
+        "width": 928,
+        "x": 28.186708,
+        "y": -191.20084
+      },
+      "adjustParams": {
+        "brightness": 50,
+        "contrast": 50,
+        "exposure": 50,
+        "highLight": 100,
+        "saturation": 50,
+        "shadow": 0,
+        "sharpen": 50,
+        "temperature": 50
+      },
+      "shadowParams": {
+        "angle": 0.0,
+        "blur": 0.0,
+        "color": -16777216,
+        "enabled": true,
+        "is3DShadow": false,
+        "offset": 0.0,
+        "opacity": 1.0,
+        "shapeAngle": 0.0,
+        "shapeGradient": 0.0,
+        "shapeLength": 20.0,
+        "shapeOffsetX": 0.0,
+        "shapeOffsetY": 0.0,
+        "xOffset": 0.0,
+        "yOffset": 0.0
+      },
+      "source": {
+        "type": "bitmap"
+      }
+    }
+  ]
+}

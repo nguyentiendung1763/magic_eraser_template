@@ -1,0 +1,168 @@
+{
+  "type" : "drawboard",
+  "baseAssetUrl" : "https://media.magiceraser.live/",
+  "width" : 740,
+  "height" : 1109,
+  "resizeKey" : "original",
+  "materials" : [ {
+    "type" : "image",
+    "layerIndex" : -100,
+    "foreground" : false,
+    "visible" : true,
+    "locked" : false,
+    "replaceable" : false,
+    "inVisibleType" : 0,
+    "lastFilterType" : "Original",
+    "lastFilterLevel" : 100,
+    "visibleParams" : {
+      "alpha" : 1.0,
+      "blurRadius" : 0.0,
+      "borderColor" : -1,
+      "borderEnabled" : false,
+      "borderSize" : 0.0,
+      "glowSize" : 0,
+      "hFlip" : false,
+      "height" : 648,
+      "outlineColor" : -1,
+      "outlineThickness" : 0,
+      "rotation" : 0.0,
+      "scaleX" : 1.6656581,
+      "scaleY" : 1.6656581,
+      "vFlip" : false,
+      "width" : 432,
+      "x" : 0.0,
+      "y" : 0.0
+    },
+    "adjustParams" : {
+      "brightness" : 50,
+      "contrast" : 50,
+      "exposure" : 50,
+      "highLight" : 100,
+      "saturation" : 50,
+      "shadow" : 0,
+      "sharpen" : 50,
+      "temperature" : 50
+    },
+    "previewUrl" : "preview/eabbcb10-42ae-4289-b836-fae331b1b39d-preview.jpg",
+    "shadowParams" : {
+      "angle" : 0.0,
+      "blur" : 0.0,
+      "color" : -16777216,
+      "enabled" : true,
+      "offset" : 0.0,
+      "opacity" : 1.0,
+      "xOffset" : 0.0,
+      "yOffset" : 0.0
+    },
+    "source" : {
+      "type" : "network",
+      "url" : "test518/assets/eabbcb10-42ae-4289-b836-fae331b1b39d.jpg"
+    }
+  }, {
+    "type" : "image",
+    "layerIndex" : 1,
+    "foreground" : true,
+    "visible" : true,
+    "locked" : false,
+    "replaceable" : false,
+    "inVisibleType" : 0,
+    "lastFilterType" : "Original",
+    "lastFilterLevel" : 100,
+    "visibleParams" : {
+      "alpha" : 1.0,
+      "blurRadius" : 0.0,
+      "borderColor" : -1,
+      "borderEnabled" : false,
+      "borderSize" : 0.0,
+      "glowSize" : 0,
+      "hFlip" : false,
+      "height" : 885,
+      "outlineColor" : -1,
+      "outlineThickness" : 0,
+      "rotation" : 6.9002533,
+      "scaleX" : 0.47635943,
+      "scaleY" : 0.47653782,
+      "vFlip" : false,
+      "width" : 665,
+      "x" : -54.795143,
+      "y" : -215.2917
+    },
+    "adjustParams" : {
+      "brightness" : 50,
+      "contrast" : 50,
+      "exposure" : 50,
+      "highLight" : 100,
+      "saturation" : 50,
+      "shadow" : 0,
+      "sharpen" : 50,
+      "temperature" : 50
+    },
+    "shadowParams" : {
+      "angle" : 0.0,
+      "blur" : 0.0,
+      "color" : -16777216,
+      "enabled" : true,
+      "offset" : 0.0,
+      "opacity" : 1.0,
+      "xOffset" : 0.0,
+      "yOffset" : 0.0
+    },
+    "source" : {
+      "type" : "bitmap"
+    }
+  }, {
+    "type" : "image",
+    "layerIndex" : 2,
+    "foreground" : false,
+    "visible" : true,
+    "locked" : false,
+    "replaceable" : false,
+    "inVisibleType" : 0,
+    "lastFilterType" : "Original",
+    "lastFilterLevel" : 100,
+    "visibleParams" : {
+      "alpha" : 1.0,
+      "blurRadius" : 0.0,
+      "borderColor" : -1,
+      "borderEnabled" : false,
+      "borderSize" : 0.0,
+      "glowSize" : 0,
+      "hFlip" : false,
+      "height" : 1287,
+      "outlineColor" : -1,
+      "outlineThickness" : 0,
+      "rotation" : 0.0,
+      "scaleX" : 0.21460508,
+      "scaleY" : 0.21460508,
+      "vFlip" : false,
+      "width" : 2013,
+      "x" : 16.470152,
+      "y" : 246.58682
+    },
+    "adjustParams" : {
+      "brightness" : 50,
+      "contrast" : 50,
+      "exposure" : 50,
+      "highLight" : 100,
+      "saturation" : 50,
+      "shadow" : 0,
+      "sharpen" : 50,
+      "temperature" : 50
+    },
+    "previewUrl" : "preview/1810ef25-e5aa-41a6-ba91-65fed87e33a0-preview.jpg",
+    "shadowParams" : {
+      "angle" : 0.0,
+      "blur" : 0.0,
+      "color" : -16777216,
+      "enabled" : true,
+      "offset" : 0.0,
+      "opacity" : 1.0,
+      "xOffset" : 0.0,
+      "yOffset" : 0.0
+    },
+    "source" : {
+      "type" : "network",
+      "url" : "test518/assets/1810ef25-e5aa-41a6-ba91-65fed87e33a0.jpg"
+    }
+  } ]
+}
