@@ -1,0 +1,117 @@
+{
+  "type": "drawboard",
+  "baseAssetUrl": "https://media.magiceraser.live/",
+  "width": 740,
+  "height": 1109,
+  "resizeKey": "original",
+  "materials": [
+    {
+      "type": "image",
+      "layerIndex": 0,
+      "foreground": false,
+      "visible": true,
+      "locked": false,
+      "replaceable": false,
+      "inVisibleType": 0,
+      "lastFilterType": "Original",
+      "lastFilterLevel": 100,
+      "visibleParams": {
+        "alpha": 1.0,
+        "blurRadius": 0.0,
+        "borderColor": -1,
+        "borderEnabled": false,
+        "borderSize": 0.0,
+        "glowSize": 0,
+        "hFlip": false,
+        "height": 648,
+        "outlineColor": -1,
+        "outlineThickness": 0,
+        "rotation": 0.0,
+        "scaleX": 1.7103842,
+        "scaleY": 1.7103842,
+        "vFlip": false,
+        "width": 432,
+        "x": 0.0,
+        "y": 0.0
+      },
+      "adjustParams": {
+        "brightness": 50,
+        "contrast": 50,
+        "exposure": 50,
+        "highLight": 100,
+        "saturation": 50,
+        "shadow": 0,
+        "sharpen": 50,
+        "temperature": 50
+      },
+      "groupName": "Marble",
+      "shadowParams": {
+        "angle": 0.0,
+        "blur": 0.0,
+        "color": -16777216,
+        "enabled": true,
+        "offset": 0.0,
+        "opacity": 1.0,
+        "xOffset": 0.0,
+        "yOffset": 0.0
+      },
+      "source": {
+        "type": "network",
+        "url": "background-template-v2/marble/89c22f259549b526.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "layerIndex": 1,
+      "foreground": true,
+      "visible": true,
+      "locked": false,
+      "replaceable": false,
+      "inVisibleType": 0,
+      "lastFilterType": "Original",
+      "lastFilterLevel": 100,
+      "visibleParams": {
+        "alpha": 1.0,
+        "blurRadius": 0.0,
+        "borderColor": -1,
+        "borderEnabled": false,
+        "borderSize": 0.0,
+        "glowSize": 0,
+        "hFlip": false,
+        "height": 885,
+        "outlineColor": -1,
+        "outlineThickness": 0,
+        "rotation": 90.738846,
+        "scaleX": 0.6216439,
+        "scaleY": 0.6218767,
+        "vFlip": false,
+        "width": 665,
+        "x": 171.80202,
+        "y": -24.752518
+      },
+      "adjustParams": {
+        "brightness": 50,
+        "contrast": 50,
+        "exposure": 50,
+        "highLight": 100,
+        "saturation": 50,
+        "shadow": 0,
+        "sharpen": 50,
+        "temperature": 50
+      },
+      "shadowParams": {
+        "angle": 0.0,
+        "blur": 0.0,
+        "color": -16777216,
+        "enabled": true,
+        "offset": 0.0,
+        "opacity": 1.0,
+        "xOffset": 0.0,
+        "yOffset": 0.0
+      },
+      "source": {
+        "type": "bitmap"
+      }
+    }
+  ]
+}

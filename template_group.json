@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Paper",
+    "url": "http://10.0.2.2:8080/",
+    "items": [
+      "template1.json",
+      "template2.json"
+    ]
+  },
+  {
+    "name": "Nature",
+    "url": "http://10.0.2.2:8080/",
+    "items": [
+      "template2.json",
+      "template3.json"
+    ]
+  }
+]
