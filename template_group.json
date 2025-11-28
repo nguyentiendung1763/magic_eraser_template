@@ -4,14 +4,14 @@
     "url": "https://raw.githubusercontent.com/nguyentiendung1763/magic_eraser_template/refs/heads/main/",
     "items": [
       "template1.json",
-      "template2.json"
+      "template1.json"
     ]
   },
   {
     "name": "Nature",
     "url": "https://raw.githubusercontent.com/nguyentiendung1763/magic_eraser_template/refs/heads/main/",
     "items": [
-      "template1.json",
+      "template2.json",
       "template3.json"
     ]
   }
