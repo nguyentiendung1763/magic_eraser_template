@@ -1,9 +1,8 @@
 {
   "type": "drawboard",
-  "baseAssetUrl": "https://media.magiceraser.live/",
-  "width": 985,
+  "baseAssetUrl": "https://raw.githubusercontent.com/nguyentiendung1763/magic_eraser_template/refs/heads/main/",
+  "width": 1440,
   "height": 1920,
-  "resizeKey": "original",
   "materials": [
     {
       "type": "image",
@@ -13,7 +12,6 @@
       "locked": false,
       "replaceable": false,
       "inVisibleType": 0,
-      "originalAlpha": -1.0,
       "lastFilterType": "Original",
       "lastFilterLevel": 100,
       "visibleParams": {
@@ -24,14 +22,14 @@
         "borderSize": 0.0,
         "glowSize": 0,
         "hFlip": false,
-        "height": 1151,
+        "height": 1152,
         "outlineColor": -1,
         "outlineThickness": 0,
         "rotation": 0.0,
-        "scaleX": 1.6655083,
-        "scaleY": 1.6655083,
+        "scaleX": 1.6674584,
+        "scaleY": 1.6674584,
         "vFlip": false,
-        "width": 590,
+        "width": 864,
         "x": 0.0,
         "y": 0.0
       },
@@ -45,26 +43,20 @@
         "sharpen": 50,
         "temperature": 50
       },
-      "groupName": "Paper",
+      "previewUrl": "never_give_up/preview/9c69ad46-4db7-4562-b764-93d544874076-preview.jpg",
       "shadowParams": {
         "angle": 0.0,
         "blur": 0.0,
         "color": -16777216,
         "enabled": true,
-        "is3DShadow": false,
         "offset": 0.0,
         "opacity": 1.0,
-        "shapeAngle": 0.0,
-        "shapeGradient": 0.0,
-        "shapeLength": 20.0,
-        "shapeOffsetX": 0.0,
-        "shapeOffsetY": 0.0,
         "xOffset": 0.0,
         "yOffset": 0.0
       },
       "source": {
         "type": "network",
-        "url": "background-template-v2/paper/4fafe0723de6b07c.jpg"
+        "url": "never_give_up/assets/9c69ad46-4db7-4562-b764-93d544874076.jpg"
       }
     },
     {
@@ -75,7 +67,6 @@
       "locked": false,
       "replaceable": false,
       "inVisibleType": 0,
-      "originalAlpha": -1.0,
       "lastFilterType": "Original",
       "lastFilterLevel": 100,
       "visibleParams": {
@@ -86,16 +77,16 @@
         "borderSize": 0.0,
         "glowSize": 0,
         "hFlip": false,
-        "height": 1536,
+        "height": 1342,
         "outlineColor": -1,
         "outlineThickness": 0,
-        "rotation": 0.0,
-        "scaleX": 0.99736166,
-        "scaleY": 0.99778754,
+        "rotation": -357.97357,
+        "scaleX": 0.58077455,
+        "scaleY": 0.5808255,
         "vFlip": false,
-        "width": 928,
-        "x": 28.186708,
-        "y": -191.20084
+        "width": 1200,
+        "x": -167.90852,
+        "y": -73.89187
       },
       "adjustParams": {
         "brightness": 50,
@@ -112,19 +103,68 @@
         "blur": 0.0,
         "color": -16777216,
         "enabled": true,
-        "is3DShadow": false,
         "offset": 0.0,
         "opacity": 1.0,
-        "shapeAngle": 0.0,
-        "shapeGradient": 0.0,
-        "shapeLength": 20.0,
-        "shapeOffsetX": 0.0,
-        "shapeOffsetY": 0.0,
         "xOffset": 0.0,
         "yOffset": 0.0
       },
       "source": {
         "type": "bitmap"
+      }
+    },
+    {
+      "type": "image",
+      "layerIndex": 2,
+      "foreground": false,
+      "visible": true,
+      "locked": false,
+      "replaceable": false,
+      "inVisibleType": 0,
+      "lastFilterType": "Original",
+      "lastFilterLevel": 100,
+      "visibleParams": {
+        "alpha": 1.0,
+        "blurRadius": 0.0,
+        "borderColor": -1,
+        "borderEnabled": false,
+        "borderSize": 0.0,
+        "glowSize": 0,
+        "hFlip": false,
+        "height": 184,
+        "outlineColor": -1,
+        "outlineThickness": 0,
+        "rotation": -360.0,
+        "scaleX": 7.7266626,
+        "scaleY": 7.7266626,
+        "vFlip": false,
+        "width": 115,
+        "x": 286.6926,
+        "y": 179.8898
+      },
+      "adjustParams": {
+        "brightness": 50,
+        "contrast": 50,
+        "exposure": 50,
+        "highLight": 100,
+        "saturation": 50,
+        "shadow": 0,
+        "sharpen": 50,
+        "temperature": 50
+      },
+      "previewUrl": "never_give_up/preview/95f865dc-ffe7-419b-aa8b-eab0c70d59ec-preview.png",
+      "shadowParams": {
+        "angle": 0.0,
+        "blur": 0.0,
+        "color": -16777216,
+        "enabled": true,
+        "offset": 0.0,
+        "opacity": 1.0,
+        "xOffset": 0.0,
+        "yOffset": 0.0
+      },
+      "source": {
+        "type": "network",
+        "url": "never_give_up/assets/95f865dc-ffe7-419b-aa8b-eab0c70d59ec.png"
       }
     }
   ]
